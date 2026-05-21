@@ -1,0 +1,11 @@
+{
+  "assignment" : {
+    "T0" : 0,
+    "T1" : 1,
+    "T2" : 0
+  },
+  "penalty" : 13.0,
+  "runtimeMs" : 6,
+  "feasible" : true,
+  "violationReason" : null
+}
