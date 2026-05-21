@@ -1,0 +1,12 @@
+AI Usage Log
+
+I used AI tools (ChatGPT) during this assignment for the following purposes:
+
+1. Understanding the problem statement and scheduling constraints.
+2. Getting guidance on project structure in Java (Maven project setup).
+3. Learning how to implement JSON input/output handling in Java.
+4. Debugging file path and runtime issues in IntelliJ IDEA.
+5. Understanding basic greedy scheduling approach and complexity explanation.
+6. Assistance in formatting README and report structure.
+
+I confirm that the core implementation logic and final submission decisions were reviewed and integrated by me.
